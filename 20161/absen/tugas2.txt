@@ -1,0 +1,21 @@
+Cari kasus terkait dengan keamanan komputer :
+
+- Kasus berdasarkan motif politik. Contoh STUXNET 
+
+Nama Kasus : Serangan Malware STUXNET 
+Penjelasan :
+
+STUXNET adalah malware yang menyerang SCADA sistem di IRAN, yang bertujuan untuk mengetahui kekuatan nuklir di IRAN. Adapun analisa tentang STUXNET yang saya pahami adalah menyerang sistem pendingin SCADA.
+Efek yang ditimbul akibat malware ini adalah listrik mati.
+sumber :
+
+
+- Kasus berdasarkan motif financial. Contoh Carding
+
+Nama Kasus : Pencurian Credit Card
+Penjelasan :
+
+Credit card belanja di lazada, elevenia, mataharimall menggunakan milik orang lain. Pencurian ini menggunakan teknik sniffing (di warnet).
+Efek yang ditimbulkan akibat carding ini, tagihan cc nya menjadi membengkak.
+sumber :
+
